@@ -14,6 +14,10 @@ Reference:
 2. https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 3. https://guides.rubyonrails.org/v5.0/getting_started.html
 
+### Instruction
+1. Fork this repository.
+2. Perform the coding parts below.
+3. Create a pull request from your fork.
 
 ### Part 1
 To start develop a new project, we need to have some data in our database
